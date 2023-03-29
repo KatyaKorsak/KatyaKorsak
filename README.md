@@ -12,9 +12,9 @@
 
 <h2 align="center">🤝 Connect with me:
 
-<a href="https://https://www.linkedin.com/in/katya-korsak-152066242/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="31px"/></a>
-<a href="https://https://www.instagram.com/katya.korsak"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="31px"/></a>
-<a href="https://https://www.t.me/Katya_Korsak"><img align="center" src="https://sz58.ru/wp-content/uploads/telegram.png" alt="Yu Shi | Telegram" width="31px"/></a>
+<a href="https://www.linkedin.com/in/katya-korsak-152066242/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="31px"/></a>
+<a href="https://www.instagram.com/katya.korsak"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="31px"/></a>
+<a href="https://www.t.me/Katya_Korsak"><img align="center" src="https://sz58.ru/wp-content/uploads/telegram.png" alt="Yu Shi | Telegram" width="31px"/></a>
 </br>
 
 
