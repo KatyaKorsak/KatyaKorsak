@@ -19,7 +19,7 @@
 
 ## 📜 My CV 
 
-[link](https://ссылочку_сюда)
+[link](https://drive.google.com/file/d/1CXFYK5GTGLjr7EJMnUv0IAWtzQbtcECj/view?usp=share_link)
 
 ## 🚀 Some Tools I Use
 <div>
